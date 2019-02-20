@@ -1,0 +1,2 @@
+# BlogX
+Blog page example
